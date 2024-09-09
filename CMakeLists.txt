@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON) # needed for Clang-Tidy
 
-project(eevee CXX)
+project(fast_snail_server CXX)
 
 include(cmake/setup.cmake)
 
